@@ -22,8 +22,8 @@ I’m a final‑year ICT College student in Serbia, specializing in backend deve
 
 ## 🚀 Current Project  
 
-**🔍 PHP Search Engine**  
-Building a custom search engine in PHP.  
+**📡 RSS Feeder in Laravel**  
+Building a custom RSS‐feeder application using Laravel.
 
 ---
 
