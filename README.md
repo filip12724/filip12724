@@ -22,8 +22,9 @@ I’m a final‑year ICT College student in Serbia, specializing in backend deve
 
 ## 🚀 Current Project  
 
-**📡 RSS Feeder in Laravel**  
-Building a custom RSS‐feeder application using Laravel.
+**📦 Custom PHP MVC Framework  
+Building a custom PHP MVC framework.
+
 
 ---
 
