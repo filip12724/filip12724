@@ -46,7 +46,7 @@ Bachelor of Information and Communication Technologies (final year)
 
 <!-- Top languages card -->  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filip12724&layout=compact)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=filip12724&theme=dark)
+![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=filip12724&layout=compact&card_width=345)
 ---
 
 > “Veni, vidi, vici.”  — Julius Caesar
