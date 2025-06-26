@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍🎓 About Me  
-I’m a final‑year ICT College student in Serbia, specializing in backend development with PHP, Laravel, and Vue.js for frontend. I’m passionate about learning, and I firmly believe PHP remains a powerful, versatile language for modern web applications.  
+I’m a final‑year ICT College student in Serbia, specializing in backend development with PHP, Laravel, and Vue.js for frontend. I’m also passionate about learning.  
 
 ---
 
